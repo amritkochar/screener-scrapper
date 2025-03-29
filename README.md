@@ -21,9 +21,6 @@ This project is a Python-based tool designed to scrape and analyze financial dat
 ## File Structure
 
 - `scrapper.py`: The main script that handles scraping and parsing of data from the Screener website.
-- `test files/`: Contains test scripts and sample JSON files for testing and debugging.
-  - `scrap_screener.py`: A test script for extracting and visualizing specific sections of data.
-  - Sample JSON files like `screener_cleaned_data_with_growth_tables.json` provide examples of the extracted data.
 
 ## How It Works
 
