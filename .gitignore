@@ -1,3 +1,9 @@
+# Ignore all .html files
+*.html
+
+# Ignore everything in the test_files folder
+test_files/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
